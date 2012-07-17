@@ -1,12 +1,13 @@
 body {
-	background:black url('../images/white-rabbit-medium.png') no-repeat right top;
+	background:white url('../images/hypothetical-h.jpg') no-repeat right top;
 }
 
 p {
-	color: white;
+	color: black;
 }
 
 ul#projects {
+    padding: 0;
 	margin: 0 auto;
 	width: 600px;
 	vertical-align: center;
